@@ -130,3 +130,13 @@ th {
  padding: 0.5em;
  border: 1px solid #006600;
 }
+
+ #gallery ul {
+            list-style-type: none;
+            padding: 0;
+			
+			 }
+ #gallery li {
+            display: inline-block;
+            margin: 5px;
+			 }
